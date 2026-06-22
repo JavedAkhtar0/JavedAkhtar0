@@ -1,43 +1,70 @@
-# Hi, I'm Javed Akhtar 👋
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-orange)
+![MCA Student](https://img.shields.io/badge/MCA-Student-red)
 
-🎓 MCA Student | 💻 Python Developer | Machine Learning Enthusiast
+Hi, I'm Javed Akhtar 👋
 
-I am an MCA student passionate about Python, Machine Learning, Backend Development, and Problem Solving. I enjoy building projects that combine data analysis, machine learning, and software development to solve real-world problems.
+🎓 MCA Student | 💻 Python Developer | 🤖 Machine Learning Enthusiast
 
-Through academic projects and hands-on practice, I have worked with Machine Learning models, Natural Language Processing (NLP), FastAPI, databases, and programming fundamentals in Python, Java, C, and C++.
+🚀 Building projects with Python, Machine Learning, FastAPI, and Data Analysis.
+
+Welcome to my GitHub profile!
+
+I am an MCA student interested in Python, Machine Learning, Backend Development, and Problem Solving. I enjoy building projects that combine software development, data analysis, and machine learning to solve real-world problems.
+
+Currently, I am focused on improving my skills through hands-on projects and continuous learning.
 
 ---
 
-### 🚀 Skills & Technologies
+## 🚀 Tech Stack
+
+**Languages**
 
 * Python
-* Machine Learning
-* Natural Language Processing (NLP)
-* FastAPI
-* Pandas & NumPy
-* Scikit-Learn
-* SQL
-* Git & GitHub
 * Java
 * C
 * C++
+
+**Machine Learning & Data Science**
+
+* Machine Learning
+* Natural Language Processing (NLP)
+* Scikit-Learn
+* Pandas
+* NumPy
+
+**Backend & Tools**
+
+* FastAPI
+* SQL
+* Git
+* GitHub
+
+**Programming Fundamentals**
+
 * Data Structures & Algorithms
+* Problem Solving
 
 ---
 
-### 📌 Projects
+## 📌 Featured Projects
 
-🔹 Depression & Anxiety Detection using NLP
+### 🤖 Depression & Anxiety Detection using NLP
+[View Project](https://github.com/JavedAkhtar0/Depression-Anxiety-Detection-NLP)
 
-🔹 Lung Cancer Detection and Stage Prediction
+### 🩺 Lung Cancer Detection and Stage Prediction
+[View Project](https://github.com/JavedAkhtar0/Lung-Cancer-Prediction)
 
-🔹 House Price Prediction using Machine Learning
+### 🏠 House Price Prediction
+[View Project](https://github.com/JavedAkhtar0/House-Price-Prediction)
 
-🔹 Grocery Management System
+### 🛒 Grocery Management System
+[View Project](https://github.com/JavedAkhtar0/Grocery-Management-System)
 
 ---
 
-### 📚 Areas of Interest
+## 📚 Interests
 
 * Machine Learning
 * Backend Development
@@ -47,14 +74,18 @@ Through academic projects and hands-on practice, I have worked with Machine Lear
 
 ---
 
-### 🎯 Goal
+## 🎯 Career Goal
 
-To continuously improve my technical skills, build impactful software solutions, and grow as a Software Developer and Machine Learning Engineer.
+To build practical software solutions, strengthen my development skills, and grow as a Software Developer while exploring Machine Learning applications.
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-GitHub: github.com/JavedAkhtar0
+📧 Email: [akhtarjaved.tech@gmail.com](mailto:akhtarjaved.tech@gmail.com)
 
-Thanks for visiting my profile!
+🔗 GitHub: [JavedAkhtar0](https://github.com/JavedAkhtar0)
+
+🔗 LinkedIn: [Javed Akhtar](https://linkedin.com/in/javedakhtar0)
+
+⭐ Feel free to explore my repositories and projects!
