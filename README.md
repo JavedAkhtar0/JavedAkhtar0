@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Javed Akhtar 👋
 
-<!--
-**JavedAkhtar0/JavedAkhtar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am an MCA student passionate about Python, Machine Learning, Backend Development, and Problem Solving. I enjoy building projects that combine data analysis, machine learning, and software development to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through academic projects and hands-on practice, I have worked with Machine Learning models, Natural Language Processing (NLP), FastAPI, databases, and programming fundamentals in Python, Java, C, and C++.
+
+---
+
+### 🚀 Skills & Technologies
+
+* Python
+* Machine Learning
+* Natural Language Processing (NLP)
+* FastAPI
+* Pandas & NumPy
+* Scikit-Learn
+* SQL
+* Git & GitHub
+* Java
+* C
+* C++
+* Data Structures & Algorithms
+
+---
+
+### 📌 Projects
+
+🔹 Depression & Anxiety Detection using NLP
+
+🔹 Lung Cancer Detection and Stage Prediction
+
+🔹 House Price Prediction using Machine Learning
+
+🔹 Grocery Management System
+
+---
+
+### 📚 Areas of Interest
+
+* Machine Learning
+* Backend Development
+* Data Science
+* Software Development
+* Problem Solving
+
+---
+
+### 🎯 Goal
+
+To continuously improve my technical skills, build impactful software solutions, and grow as a Software Developer and Machine Learning Engineer.
+
+---
+
+### 📫 Connect With Me
+
+GitHub: github.com/JavedAkhtar0
+
+Thanks for visiting my profile!
