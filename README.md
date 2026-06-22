@@ -67,7 +67,7 @@ To build practical software solutions, strengthen my development skills, and gro
 
 <p align="center">
 
-<a href="mailto:akhtarjaved.tech@gmail.com">
+<a href="mailto:akhtarjaved.tech@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-akhtarjaved.tech%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
