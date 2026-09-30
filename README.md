@@ -11,7 +11,7 @@
 
 ## Hi, I'm Javed Akhtar 👋
 
-🎓 MCA Fresher | 💻 Python Developer | 🤖 Aspiring Machine Learning Engineer
+🎓 MCA Fresher | 💻 Data Analyst | 🤖 Aspiring Machine Learning Engineer
 
 🚀 Building projects with Python, Machine Learning, FastAPI, and Data Analysis.
 
